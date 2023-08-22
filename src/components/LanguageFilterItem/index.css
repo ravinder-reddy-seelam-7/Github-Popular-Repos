@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.language-list-item {
+}
+.language-button {
+  background-color: transparent;
+  border: none;
+  color: #0f172a;
+  font-weight: bold;
+}
+.btn-styling {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+}
